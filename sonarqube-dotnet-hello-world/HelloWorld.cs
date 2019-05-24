@@ -7,6 +7,10 @@ namespace sonarqube_dotnet_hello_world
 {
     public class HelloWorld
     {
-        int i = 0;
-    }
+        public void demo() {
+            int a = 0;
+            a += 1;
+        }
+       
+   }
 }
